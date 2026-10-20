@@ -1,0 +1,6 @@
+{
+  "name": "KoM Poultry Farm",
+  "description": "Premium day-old chicks, organic table eggs, poultry feeds and expert farm consultation in Nairobi, Kenya. Call +256700719468.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
